@@ -30,3 +30,35 @@ token
 username
 xoxb-
 xoxp-
+credential
+credentials
+.yml
+.yaml
+.env
+passwd
+APP_SECRET
+app_secret
+api_key
+config
+client_secret
+SECRET_KEY
+xoxp OR xoxb OR xoxa
+bashrc password
+aws
+dockercfg
+pem
+private
+npmrc
+_auth
+
+
+
+
+
+
+
+
+
+
+
+
